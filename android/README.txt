@@ -1,0 +1,1 @@
+This folder contains android platform files. Replace with a real Flutter project platform folder when building.
